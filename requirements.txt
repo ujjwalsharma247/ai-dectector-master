@@ -12,3 +12,7 @@ tensorflow
 scikit-learn
 pickle-mixin
 tensorflow==2.13.0
+streamlit
+tensorflow
+numpy
+pandas
