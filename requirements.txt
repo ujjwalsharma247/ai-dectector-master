@@ -4,15 +4,8 @@ pandas
 numpy
 scikit-learn
 nltk
-numpy
-pandas
 matplotlib
 seaborn
-tensorflow
-scikit-learn
-pickle-mixin
 tensorflow==2.13.0
-streamlit
-tensorflow
-numpy
-pandas
+pickle-mixin
+
